@@ -84,7 +84,7 @@ This project is designed for beginners who want practical understanding, not jus
 - 🚨 This project is for educational purposes only.
 - All demonstrations are performed on self-created hashes in a controlled lab environment.
 
-##🌟 Final Takeaway
+## 🌟 Final Takeaway
 
 - Strong security is not about hiding passwords — it’s about making attacks useless.
 - Weak passwords fail fast. Strong hashing + MFA changes the game.
