@@ -42,7 +42,7 @@ This project is designed for beginners who want practical understanding, not jus
 - We demonstrate dictionary-based attacks on weak hashes using:
 - 🛠️ Hashcat (GPU-focused, fast)
 - 🧰 John the Ripper (beginner-friendly, smart defaults)
--
+
 ## 📌 Purpose:
 
 - Not to hack systems, but to prove why weak passwords are dangerous.
