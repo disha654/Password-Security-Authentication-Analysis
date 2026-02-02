@@ -27,7 +27,7 @@ This project is designed for beginners who want practical understanding, not jus
 # 📌 Example:
 -hello → 5d41402abc4b2a76b9719d911017c592
 
-##🧩 2. Identifying Hash Types
+## 🧩 2. Identifying Hash Types
 - Learn how to identify hash algorithms using:
 - 📏 Hash length
 - 🔤 Character patterns
