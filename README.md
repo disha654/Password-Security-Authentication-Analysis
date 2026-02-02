@@ -11,11 +11,11 @@ This project is designed for beginners who want practical understanding, not jus
 
 ## 🎯 Project Objectives
 
-## 🔍 Identify different hash types (MD5, SHA-1, SHA-256, bcrypt)
-## ⚔️ Crack weak hashes using wordlists
-## 📉 Analyze why weak passwords fail
-## 🛡️ Study strong authentication & MFA
-## ✅ Learn best security practices
+ 🔍 Identify different hash types (MD5, SHA-1, SHA-256, bcrypt)
+ ⚔️ Crack weak hashes using wordlists
+ 📉 Analyze why weak passwords fail
+ 🛡️ Study strong authentication & MFA
+ ✅ Learn best security practices
 
 # 🧠 Concepts Covered
 # 🔑 1. Hashing Basics
